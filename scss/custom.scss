@@ -1,0 +1,26 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+//OVERRIDE
+//FONT FAMILY
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-monospace: 'Fraunces', serif;
+//FONT SIZE BASE
+$font-size-base: 14px;
+
+// COLORES CUSTOM
+$custom-colors: (
+    //PRIMARY
+    "custom-color1": hsl(158, 36%, 37%),
+    "custom-color2": hsl(30, 38%, 92%),
+    //NEUTRAL
+    "custom-color3": hsl(212, 21%, 14%),
+    "custom-color4": hsl(228, 12%, 48%),
+    "custom-color5": hsl(0, 0%, 100%),
+);
+
+// AGREGAR COLORES CUSTOM
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
