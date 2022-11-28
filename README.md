@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://lcascardo.github.io/FrontendMentor-OrderSummaryComponent/)
+- Live Site URL: [Sitio Web](https://lcascardo.github.io/FrontendMentor-PreviewCardComponent/)
 
 ## My process
 
@@ -48,7 +48,7 @@ Reforce conocimientos de HTML5, CSS y SASS. Tambien implemente el uso de Bootstr
 
 ## Author
 
-- Website - [Lucas Ezequiel Cascardo](https://lcascardo.github.io/FrontendMentor-OrderSummaryComponent/)
+- Website - [Lucas Ezequiel Cascardo](https://lcascardo.github.io/FrontendMentor-PreviewCardComponent/)
 - Frontend Mentor - [@lcascardo](https://www.frontendmentor.io/profile/lcascardo)
 - Twitter - [@Lucas53991237](https://twitter.com/Lucas53991237)
 
